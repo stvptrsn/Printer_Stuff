@@ -23,3 +23,12 @@ For the install tool:<BR>
 (1) M5 washer<BR>
 
 Install tool clamps the handwheel and printed hub together with the M5 bolt through the center.
+
+License: GPL V3
+
+Inspired by the Voron Design's use of a GT2 pulley as a hub for a larger printed pulley<BR>
+and motivated by wanting an alternate Handwheel for the Millennium Machines Milo v1.5 LDO Kit build series.<BR>
+
+Example Voron part: https://github.com/VoronDesign/Mobius-Extruder/blob/m4/STLs/%5Ba%5D_80t_gear.stl
+
+Millennium Machines Milo V1.5 Github: https://github.com/MillenniumMachines/Milo-v1.5
