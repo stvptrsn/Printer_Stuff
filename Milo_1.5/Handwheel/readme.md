@@ -16,3 +16,10 @@ Hardware required:
 (1) M3x30 SHCS for the handwheel knob<BR>
 (5) M3x10 BHCS to attach the handwheel to the hub<BR>
 (1) M3x16 SHCS for the printed hub clamp<BR>
+
+For the install tool:<BR>
+(1) M5x40 SHCS<BR>
+(1) M5 hex nut<BR>
+(1) M5 washer<BR>
+
+Install tool clamps the handwheel and printed hub together with the M5 bolt through the center.
