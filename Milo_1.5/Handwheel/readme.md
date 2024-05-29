@@ -10,6 +10,8 @@ https://openbuildspartstore.com/3gt-gt2-3m-timing-pulley-20-tooth-9mm-belt-8mm-c
 
 The printed hub appears to work just fine for a fraction of the cost though.
 
+Note: For the plastic hub, the fit is intentionally close; use an 8mm drill or reamer if it's too tight.
+
 Hardware required:
 
 (2) M3 heatsets (1 is optional for the handwheel knob)<BR>
